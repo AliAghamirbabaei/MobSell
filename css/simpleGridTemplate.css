@@ -45,7 +45,7 @@ body {
 	float: left;
 	padding-left: 20px;
 	padding-right: 20px;
-	color: #A3A3A3;
+	color: #FFF;
 }
 .gallery {
 	clear: both;
@@ -75,16 +75,16 @@ body {
 	
 }
 .gallery .thumbnail h4 {
-	margin-top: 5px;
+	margin-top: 20px;
 	margin-bottom: 5px;
-	color: #52BAD5;
+	color: #FFF;
 	text-align: left;
 	padding-left: 20px;
 	padding-right: 20px;
 }
 .gallery .thumbnail p {
 	margin: 0;
-	color: #B3B3B3;
+	color: #FFF;
 	text-align: left;
 	padding-left: 20px;
 }
@@ -110,11 +110,10 @@ body {
 	color: #FFFFFF;
 }
 .cards {
-	width: 100%;
+	width: 95%;
 	height: auto;
 	max-width: 400px;
 	max-height: 200px;
-	opacity: 0.8;
 }
 .intro .column p {
 	padding-left: 30px;
